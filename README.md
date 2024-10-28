@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zachMan5000
-- 👀 I’m interested in game dev and software engineering
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently studying Computer Science
 
 <!---
